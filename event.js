@@ -47,6 +47,6 @@ var Event = (function(){
     remove
   }
 
-})();
+}());
 
 module.exports = Event;
